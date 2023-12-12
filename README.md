@@ -1,19 +1,44 @@
-# Portafolio: TecnolochicasPRO
+# Portafolio Adaptable (Responsive) con Bootstrap 5
 
-Este proyecto fue creado durante el bootcamp de tecnolochicaspro es una pagina web responciva (adaptable a diversos dispocitivos) con el propocito de poner en practica el uso de framworks y conocimiento del desarrollo web.
+Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
-Enfocandose en mostrar la experiencia de la desarrolladora del proyecto en formato de portafolio con mencion de su perfil sus proyectos voluntariados y medios de contacto.
+El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
-Incluye con recursos multimedia para interactuar con ellos.
+También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
-# tecnologias
+### Capturas de pantalla:
 
-HTML
-CSS
-JS
+Primera parte de la página web:
 
-# contacto
+![Primera parte de la página web](<imagenes/Captura de pantalla (38).png>)
 
-Si estas interesado en colaborar con proyectos, oportunidades laborales e iniciativas, contactame.
+Experiencia:
 
-© 2023 Johana Gomez | johanA-GH | (Programa Technolochicas PRO)
+![Experiencia](imagenes/screenshot2.png)
+
+Proyectos:
+
+![Proyectos](imagenes/screenshot3.png)
+
+Contacto:
+
+![Contacto](imagenes/screenshot5.png)
+
+## Tecnologías
+
+Esta página web fue creada con:
+
+* HTML
+* CSS
+* JavaScript 
+* Bootstrap 5
+
+Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
+
+## Español
+
+El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
+
+
+
+
