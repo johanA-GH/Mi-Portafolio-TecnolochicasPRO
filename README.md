@@ -14,11 +14,11 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](<imagenes/Captura de pantalla (41).png>)
+![Experiencia](<imagenes/Captura de pantalla (46).png>)
 
 Proyectos:
 
-![Proyectos](<imagenes/Captura de pantalla (44).png>)
+![Proyectos](<imagenes/Captura de pantalla (49).png>)
 
 Contacto:
 
